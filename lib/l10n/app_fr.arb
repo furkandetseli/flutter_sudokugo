@@ -1,0 +1,96 @@
+{
+  "appTitle": "Sudoku Go",
+  "sudoku": "Sudoku Go!",
+  "start": "Commencer",
+  "continueGame": "Reprendre",
+  "newGame": "Nouveau Jeu",
+  "about": "À Propos",
+  "contact": "Contact",
+  "undo": "Annuler",
+  "errorCount": "Erreur: {count}/3",
+  "@errorCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "hintCount": "Indice: {count}",
+  "@hintCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  "gameOver": "Jeu Terminé",
+  "gameOverMessage": "Vous avez fait 3 erreurs. Un nouveau jeu va commencer.",
+  "ok": "OK",
+  "highScoreLabel": "Meilleur Score: {score}",
+  "@highScoreLabel": {
+    "description": "Le score le plus élevé actuel",
+    "placeholders": {
+      "score": {
+        "type": "int",
+        "example": "100"
+      }
+    }
+  },
+  "congratulations": "Félicitations!",
+  "gameCompletedMessage": "Vous avez réussi à compléter le puzzle Sudoku!",
+  "yourScore": "Votre score: {score}",
+  "@yourScore": {
+    "description": "Le score actuel du joueur",
+    "placeholders": {
+      "score": {
+        "type": "int",
+        "example": "850"
+      }
+    }
+  },
+  "playAgain": "Rejouer",
+  "watchAd": "Regarder une Pub",
+  "restart": "Redémarrer",
+  "scoreLabel": "Score: {currentScore}\nMeilleur: {highScore}",
+  "@scoreLabel": {
+    "description": "Le score actuel et le meilleur score",
+    "placeholders": {
+      "currentScore": {
+        "type": "int",
+        "example": "100"
+      },
+      "highScore": {
+        "type": "int",
+        "example": "500"
+      }
+    }
+  },
+  "statistics": "Statistiques",
+  "gamesPlayed": "Jeux Joués",
+  "gamesWon": "Jeux Gagnés",
+  "gamesLost": "Jeux Perdus",
+  "bestTime": "Meilleur Temps",
+  "totalHintsUsed": "Total d'Indices Utilisés",
+  "totalCorrectMoves": "Total de Mouvements Corrects",
+  "totalMistakes": "Total d'Erreurs",
+  "howToPlay": "Comment Jouer",
+  "sudokuRules": "Règles de Sudoku:",
+  "rule1": "1. Remplissez la grille de manière à ce que chaque ligne, colonne et boîte de 3x3 contienne les chiffres de 1 à 9.",
+  "rule2": "2. Ne répétez aucun chiffre dans une ligne, une colonne ou une boîte de 3x3.",
+  "rule3": "3. Utilisez la logique pour déduire le placement correct des chiffres.",
+  "tips": "Conseils:",
+  "tip1": "• Commencez par les lignes, colonnes ou boîtes les plus remplies.",
+  "tip2": "• Utilisez le processus d'élimination pour réduire les possibilités.",
+  "tip3": "• Ne devinez pas! Le Sudoku est un jeu de logique et de raisonnement.",
+  "contact": "Contact",
+  "name": "Nom",
+  "email": "E-mail",
+  "message": "Message",
+  "submit": "Soumettre",
+  "nameRequired": "Veuillez entrer votre nom",
+  "emailRequired": "Veuillez entrer votre adresse e-mail",
+  "invalidEmail": "Veuillez entrer une adresse e-mail valide",
+  "messageRequired": "Veuillez entrer un message"
+}

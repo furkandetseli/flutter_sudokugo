@@ -1,0 +1,97 @@
+{
+  "appTitle": "Sudoku Go",
+  "sudoku": "Sudoku Go!",
+  "start": "Start",
+  "continueGame": "Continue",
+  "newGame": "New Game",
+  "about": "About",
+  "contact": "Contact",
+  "undo": "Undo",
+  "errorCount": "Error: {count}/3",
+  "@errorCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "hintCount": "Hint: {count}",
+  "@hintCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  "gameOver": "Game Over",
+  "gameOverMessage": "You made 3 errors. A new game will start.",
+  "ok": "OK",
+  "highScoreLabel": "High Score: {score}",
+  "@highScoreLabel": {
+    "description": "The current high score",
+    "placeholders": {
+      "score": {
+        "type": "int",
+        "example": "100"
+      }
+    }
+  },
+  "congratulations": "Congratulations!",
+  "gameCompletedMessage": "You have successfully completed the Sudoku puzzle!",
+  "yourScore": "Your score: {score}",
+  "@yourScore": {
+    "description": "The player's current score",
+    "placeholders": {
+      "score": {
+        "type": "int",
+        "example": "850"
+      }
+    }
+  },
+  "playAgain": "Play Again",
+  "watchAd": "Watch Ad",
+  "restart": "Restart",
+  "scoreLabel": "Score:\n{currentScore}",
+  "@scoreLabel": {
+    "description": "The current score and high score",
+    "placeholders": {
+      "currentScore": {
+        "type": "int",
+        "example": "100"
+      },
+      "highScore": {
+        "type": "int",
+        "example": "500"
+      }
+    }
+  },
+  "statistics": "Statistics",
+  "gamesPlayed": "Games Played",
+  "gamesWon": "Games Won",
+  "gamesLost": "Games Lost",
+  "bestTime": "Best Time",
+  "totalHintsUsed": "Total Hints Used",
+  "totalCorrectMoves": "Total Correct Moves",
+  "totalMistakes": "Total Mistakes",
+  "howToPlay": "How to Play",
+  "sudokuRules": "Sudoku Rules:",
+  "rule1": "1. Fill in the grid so that every row, column, and 3x3 box contains the digits 1 through 9.",
+  "rule2": "2. Do not repeat any digits in a row, column, or 3x3 box.",
+  "rule3": "3. Use logic to deduce the correct placement of numbers.",
+  "tips": "Tips:",
+  "tip1": "• Start with the most filled rows, columns, or boxes.",
+  "tip2": "• Use the process of elimination to narrow down possibilities.",
+  "tip3": "• Don't guess! Sudoku is a game of logic and reasoning.",
+  "contact": "İletişim",
+  "name": "Ad",
+  "email": "E-posta",
+  "message": "Mesaj",
+  "submit": "Gönder",
+  "nameRequired": "Lütfen adınızı girin",
+  "emailRequired": "Lütfen e-posta adresinizi girin",
+  "invalidEmail": "Geçerli bir e-posta adresi girin",
+  "messageRequired": "Lütfen bir mesaj girin",
+  "time": "Time"
+}

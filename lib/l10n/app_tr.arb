@@ -1,0 +1,97 @@
+{
+  "appTitle": "Sudoku Go",
+  "sudoku": "Sudoku Go!",
+  "start": "Başla",
+  "continueGame": "Devam Et",
+  "newGame": "Yeni Oyun",
+  "about": "Hakkımızda",
+  "contact": "İletişim",
+  "undo": "Geri Al",
+  "errorCount": "Hata: {count}/3",
+  "@errorCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "hintCount": "İpucu: {count}",
+  "@hintCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  "gameOver": "Oyun Bitti",
+  "gameOverMessage": "3 hata yaptınız. Yeni bir oyun başlatılacak.",
+  "ok": "Tamam",
+  "highScoreLabel": "En Yüksek Skor: {score}",
+  "@highScoreLabel": {
+    "description": "Mevcut en yüksek skor",
+    "placeholders": {
+      "score": {
+        "type": "int",
+        "example": "100"
+      }
+    }
+  },
+  "congratulations": "Tebrikler!",
+  "gameCompletedMessage": "Sudoku bulmacasını başarıyla tamamladınız!",
+  "yourScore": "Skorunuz: {score}",
+  "@yourScore": {
+    "description": "Oyuncunun mevcut skoru",
+    "placeholders": {
+      "score": {
+        "type": "int",
+        "example": "850"
+      }
+    }
+  },
+  "playAgain": "Tekrar Oyna",
+  "watchAd": "Reklam İzle",
+  "restart": "Yeniden Başla",
+  "scoreLabel": "Puan:\n{currentScore}",
+  "@scoreLabel": {
+    "description": "Mevcut skor ve en yüksek skor",
+    "placeholders": {
+      "currentScore": {
+        "type": "int",
+        "example": "100"
+      },
+      "highScore": {
+        "type": "int",
+        "example": "500"
+      }
+    }
+  },
+  "statistics": "İstatistikler",
+  "gamesPlayed": "Oynanan Oyunlar",
+  "gamesWon": "Kazanılan Oyunlar",
+  "gamesLost": "Kaybedilen Oyunlar",
+  "bestTime": "En İyi Süre",
+  "totalHintsUsed": "Toplam Kullanılan İpuçları",
+  "totalCorrectMoves": "Toplam Doğru Hamleler",
+  "totalMistakes": "Toplam Hatalar",
+  "howToPlay": "Nasıl Oynanır",
+  "sudokuRules": "Sudoku Kuralları:",
+  "rule1": "1. Izgara, her satır, sütun ve 3x3'lük kutuda 1'den 9'a kadar olan rakamları içerecek şekilde doldurulmalıdır.",
+  "rule2": "2. Bir satır, sütun veya 3x3'lük kutuda rakamları tekrarlamayın.",
+  "rule3": "3. Sayıların doğru yerleşimini çıkarmak için mantık kullanın.",
+  "tips": "İpuçları:",
+  "tip1": "• En dolu satırlar, sütunlar veya kutularla başlayın.",
+  "tip2": "• Olasılıkları daraltmak için eleme yöntemini kullanın.",
+  "tip3": "• Tahmin etmeyin! Sudoku bir mantık ve akıl yürütme oyunudur.",
+  "contact": "İletişim",
+  "name": "Ad",
+  "email": "E-posta",
+  "message": "Mesaj",
+  "submit": "Gönder",
+  "nameRequired": "Lütfen adınızı girin",
+  "emailRequired": "Lütfen e-posta adresinizi girin",
+  "invalidEmail": "Geçerli bir e-posta adresi girin",
+  "messageRequired": "Lütfen bir mesaj girin",
+  "time": "Zaman"
+}
